@@ -12,7 +12,7 @@ Our main themes are:
 - Solitude
 
 ## Current Project
-🚧 Untitled Project (Working Name)
+🚧 Echoes of Yesterday
 
 A 2D platformer inspired by precision and exploration, with time manipulation mechanics.
 
