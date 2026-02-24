@@ -12,9 +12,6 @@ Our main themes are:
 - Solitude
 
 ## Current Project
-🚧 Echoes of Yesterday
-
-A 2D platformer inspired by precision and exploration, with time manipulation mechanics.
 
 ## Contact
 📩 contact.blueash@gmail.com
